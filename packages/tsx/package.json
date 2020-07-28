@@ -1,29 +1,29 @@
 {
-  "name": "@nighttrax/eslint-config-tsx",
+  "name": "@aurabox/eslint-config-tsx",
   "version": "6.1.1",
   "publishConfig": {
     "access": "public"
   },
-  "description": "NiGhTTraX's ESLint config for TSX apps",
+  "description": "aurabox's ESLint config for TSX apps",
   "keywords": [
     "eslint",
     "config",
     "typescript",
     "react"
   ],
-  "author": "Andrei Picus <NiGhTTraX@users.noreply.github.com>",
+  "author": "Diego Lameira <aurabox@users.noreply.github.com>",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NiGhTTraX/eslint-config.git"
+    "url": "git+https://github.com/aurabox/eslint-config.git"
   },
   "scripts": {
     "test": "../../test.sh tdd-buffet tsx"
   },
   "dependencies": {
-    "@nighttrax/eslint-config-react": "^4.0.1",
-    "@nighttrax/eslint-config-ts": "^6.1.1"
+    "@aurabox/eslint-config-react": "^4.0.1",
+    "@aurabox/eslint-config-ts": "^6.1.1"
   },
   "peerDependencies": {
     "eslint": "^7.0.0"

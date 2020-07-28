@@ -1,7 +1,7 @@
 ## Install
 
 ```sh
-npm i @nighttrax/eslint-config-base
+npm i @aurabox/eslint-config-base
 ```
 
 
@@ -10,9 +10,9 @@ npm i @nighttrax/eslint-config-base
 ```js
 module.exports = {
   'root': true,
-  
+
   'extends': [
-    '@nighttrax/eslint-config-base'
+    '@aurabox/eslint-config-base'
   ]
 };
 ```

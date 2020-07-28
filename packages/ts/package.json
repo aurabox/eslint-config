@@ -1,27 +1,27 @@
 {
-  "name": "@nighttrax/eslint-config-ts",
+  "name": "@aurabox/eslint-config-ts",
   "version": "6.1.1",
   "publishConfig": {
     "access": "public"
   },
-  "description": "NiGhTTraX's ESLint config for TS libs",
+  "description": "aurabox's ESLint config for TS libs",
   "keywords": [
     "eslint",
     "config",
     "typescript"
   ],
-  "author": "Andrei Picus <NiGhTTraX@users.noreply.github.com>",
+  "author": "Diego Lameira <aurabox@users.noreply.github.com>",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NiGhTTraX/eslint-config.git"
+    "url": "git+https://github.com/aurabox/eslint-config.git"
   },
   "scripts": {
     "test": "../../test.sh mugshot ts"
   },
   "dependencies": {
-    "@nighttrax/eslint-config-base": "^5.1.0",
+    "@aurabox/eslint-config-base": "^5.1.0",
     "@typescript-eslint/eslint-plugin": "~3.7.0",
     "@typescript-eslint/parser": "~3.7.0"
   },

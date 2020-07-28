@@ -12,9 +12,9 @@ yarn link
 
 cd /tmp
 rm -rf "$PROJECT"
-git clone https://github.com/NiGhTTraX/"$PROJECT".git
+git clone https://github.com/aurabox/"$PROJECT".git
 cd "$PROJECT"
 
 yarn install
-yarn link @nighttrax/eslint-config-"$CONFIG"
+yarn link @aurabox/eslint-config-"$CONFIG"
 yarn run lint
