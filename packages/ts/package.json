@@ -1,6 +1,6 @@
 {
   "name": "@aurabox/eslint-config-ts",
-  "version": "6.1.1",
+  "version": "6.1.2",
   "publishConfig": {
     "access": "public"
   },
@@ -21,7 +21,7 @@
     "test": "../../test.sh mugshot ts"
   },
   "dependencies": {
-    "@aurabox/eslint-config-base": "^5.1.0",
+    "@aurabox/eslint-config-base": "^5.1.1",
     "@typescript-eslint/eslint-plugin": "~3.7.0",
     "@typescript-eslint/parser": "~3.7.0"
   },

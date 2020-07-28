@@ -1,6 +1,6 @@
 {
   "name": "@aurabox/eslint-config-tsx",
-  "version": "6.1.1",
+  "version": "6.1.2",
   "publishConfig": {
     "access": "public"
   },
@@ -22,8 +22,8 @@
     "test": "../../test.sh tdd-buffet tsx"
   },
   "dependencies": {
-    "@aurabox/eslint-config-react": "^4.0.1",
-    "@aurabox/eslint-config-ts": "^6.1.1"
+    "@aurabox/eslint-config-react": "^4.0.2",
+    "@aurabox/eslint-config-ts": "^6.1.2"
   },
   "peerDependencies": {
     "eslint": "^7.0.0"
